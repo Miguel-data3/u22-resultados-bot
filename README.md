@@ -4,9 +4,6 @@ Monitorización automática de resultados U22
 
 Automatización con IA + Python + GitHub Actions + Telegram
 
-Descripción
-
-Este proyecto automatiza la detección de nuevos resultados de partidos U22 en la web de la FEB y envía una notificación directa a Telegram cuando hay actualizaciones.
 La arquitectura se basa en tres pilares:
 
 Python para el scraping y la lógica de detección de cambios.
