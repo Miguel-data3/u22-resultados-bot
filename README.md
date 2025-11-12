@@ -35,7 +35,7 @@ Eficiencia: elimina vigilancia manual.
 
 Escalabilidad: se adapta fácilmente a más partidos o ligas.
 
-Reproducibilidad: todo el flujo está versionado y documentado.
+Reproducción: todo el flujo está versionado y documentado.
 
 Costo cero: se ejecuta con infraestructura gratuita de GitHub.
 
